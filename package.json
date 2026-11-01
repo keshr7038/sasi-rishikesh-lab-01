@@ -1,0 +1,21 @@
+{
+  "name": "sasi-rishikesh-lab-01",
+  "version": "1.0.0",
+  "description": "Sasi Rishikesh's Lab 1: Node.js HTTP and Express server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:http": "node http-server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "backend-lab"
+  ],
+  "author": "Sasi Rishikesh",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
